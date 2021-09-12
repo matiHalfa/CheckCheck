@@ -1,2 +1,2 @@
 @echo off
-start node MatiTry.js
+start node Server.js
